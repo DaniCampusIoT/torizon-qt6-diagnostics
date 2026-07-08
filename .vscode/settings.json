@@ -1,0 +1,45 @@
+{
+    "torizon_debug_ssh_port": "2231",
+    "torizon_debug_port1": "2232",
+    "torizon_debug_port2": "2233",
+    "torizon_debug_port3": "",
+    "qt_license_login": "",
+    "qt_license_password": "secret",
+    "qt-core.qtInstallationRoot": "/usr/lib/qt6/bin/",
+    "qt-core.openOnlineDocumentationInExternalBrowser": true,
+    "qt-qml.qmlls.enabled": true,
+    "qt-qml.qmlls.verboseOutput": true,
+    "qt-qml.qmlls.additionalImportPaths": [
+        "/usr/lib/x86_64-linux-gnu/qt6/qml",
+        "/usr/lib/aarch64-linux-gnu/qt6/qml",
+        "./QML"
+    ],
+    "files.associations": {
+        "*.pro": "makefile"
+    },
+    "torizon_psswd": "qa",
+    "torizon_login": "torizon",
+    "torizon_ip": "192.168.1.82",
+    "torizon_ssh_port": "22",
+    "host_ip": "192.168.1.71",
+    "torizon_workspace": "${workspaceFolder}",
+    "torizon_gpu": "-imx8",
+    "torizon_arch": "arm64",
+    "wait_sync": "1",
+    "torizon_run_as": "torizon",
+    "torizon_app_root": "/home/torizon/app",
+    "docker_tag": "v0.0.0",
+    "tcb.packageName": "torizonqt6diagnostics",
+    "tcb.version": "3.14.0",
+    "torizon.gpuPrefixRC": true,
+    "torizon.restartDocker": false,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "host_arch": "amd64",
+    "containers.environment": {
+        "DOCKER_HOST": "tcp://192.168.1.82:2375",
+        "DEBUG_SSH_PORT": "2231",
+        "DEBUG_PORT1": "2232",
+        "DEBUG_PORT2": "2233",
+        "DEBUG_PORT3": ""
+    }
+}
