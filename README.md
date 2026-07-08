@@ -221,6 +221,8 @@ Both `diagnostics-debug` (used by **Deploy Debug**) and `diagnostics` (release p
 
 ## Running the application
 
+<img width="1405" height="786" alt="WhatsApp Image 2026-07-08 at 14 32 57" src="https://github.com/user-attachments/assets/ab354676-2bb5-4099-8dc6-b6a500bfdb8c" />
+
 Once deployed, the Qt6 window appears on the HDMI display automatically. The UI refreshes every 5 seconds.
 
 To trigger a manual refresh, press the **Refresh** button in the application window.
