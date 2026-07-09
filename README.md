@@ -8,8 +8,6 @@ Displays a real-time GUI on Wayland (via Weston) showing:
 
 All hardware access runs inside a Docker container. The Qt6 application communicates with QML via a `QObject`-based model (`DiagnosticsModel`) exposed through `QQmlContext`.
 
-![Torizon Qt6 Diagnostics Dashboard](docs/screenshot.png)
-
 ---
 
 ## Table of contents
